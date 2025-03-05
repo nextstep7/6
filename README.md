@@ -2,7 +2,7 @@
 
 A comprehensive machine learning application that predicts music genre preferences based on demographic data.
 
-![Music Genre Predictor](https://github.com/yourusername/music-genre-predictor/raw/main/screenshots/app_preview.png)
+![Music Genre Predictor](app_preview.png)
 
 ## Overview
 
