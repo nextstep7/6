@@ -42,8 +42,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/music-genre-predictor.git
-cd music-genre-predictor
+git clone https://github.com/nextstep7/6.git
 ```
 
 2. Install dependencies:
@@ -55,7 +54,7 @@ pip install -r requirements.txt
 
 Run the application:
 ```bash
-python test1.py
+python music_trainer.py
 ```
 
 ### Data Analysis Tab
