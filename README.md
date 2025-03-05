@@ -88,22 +88,6 @@ age,gender,genre
 27,1,Jazz
 ```
 
-## Project Structure
-
-```
-music-genre-predictor/
-│
-├── test1.py                # Main application file
-├── requirements.txt        # Dependencies
-├── README.md               # This readme file
-├── screenshots/            # Application screenshots
-│   └── app_preview.png     # Main application preview
-├── models/                 # Saved model files
-│   └── example_model.pkl   # Example pre-trained model
-└── data/                   # Sample datasets
-    └── music.csv           # Example dataset
-```
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
